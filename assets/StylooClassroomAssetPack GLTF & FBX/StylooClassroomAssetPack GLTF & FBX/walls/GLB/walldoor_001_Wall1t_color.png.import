@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://doxtxh2l4gpcs"
+path="res://.godot/imported/walldoor_001_Wall1t_color.png-c8e141e7e3f52dcf6d1c387f3218adde.ctex"
+metadata={
+"vram_texture": false
+}
+generator_parameters={}
+
+[deps]
+
+source_file="res://assets/StylooClassroomAssetPack GLTF & FBX/StylooClassroomAssetPack GLTF & FBX/walls/GLB/walldoor_001_Wall1t_color.png"
+dest_files=["res://.godot/imported/walldoor_001_Wall1t_color.png-c8e141e7e3f52dcf6d1c387f3218adde.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
